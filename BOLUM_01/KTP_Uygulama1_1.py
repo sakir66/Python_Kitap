@@ -1,0 +1,6 @@
+print("Merhaba Dünya")
+print(12+9+5)
+print(27-2+15)
+print(36*12)
+print(16/4)
+print("Python Öğreniyorum")
